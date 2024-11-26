@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1rZ69jGormnmT3gJMH5H5rJdSwYtofQf9/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Discover My Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ajay kanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay kanna" height="30" width="40" /></a>
 <a href="https://kaggle.com/a2j00k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="a2j00k4" height="30" width="40" /></a>
