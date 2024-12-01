@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajay Kanna</h1>
 <h3 align="center">I am passionate about Machine Learning, Deep Learning, and LLMs, as well as exploring advancements in UAV technology!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-kanna-0231&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-kanna-0231" /> </p>
-
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/Ajay-Kanna-0231)
 
 - 📫 How to reach me **ajaykannaalwar@gmail.com**
