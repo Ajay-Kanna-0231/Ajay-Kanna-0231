@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ajaykannaalwar@gmail.com**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1rZ69jGormnmT3gJMH5H5rJdSwYtofQf9/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1g25VrC47EQJQg2QuyDNaJpox72E-aoVR/view?usp=sharing)
 
 <h3 align="left">Discover My Profiles:</h3>
 <p align="left">
