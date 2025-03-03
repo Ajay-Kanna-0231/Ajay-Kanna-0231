@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay Kanna</h1>
-<h3 align="center">I'm passionate about ML and DL and their roles in in aerial robotics, focusing on AI-driven autonomy, perception, and decision-making in UAVs.!</h3>
+<h3 align="center">I'm passionate about ML and DL and their roles in aerial robotics, focusing on AI-driven autonomy, perception, and decision-making in UAVs.!</h3>
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/Ajay-Kanna-0231)
 
